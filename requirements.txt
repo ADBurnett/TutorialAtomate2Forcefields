@@ -1,0 +1,7 @@
+jobflow
+pymatgen
+ase
+phonopy
+jupyter-book
+atomate2
+
