@@ -1,7 +1,8 @@
 jobflow
 pymatgen
-ase
+ase @ git+https://gitlab.com/ase/ase.git
 phonopy
 jupyter-book
 atomate2
+chgnet
 
