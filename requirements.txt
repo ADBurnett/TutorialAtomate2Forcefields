@@ -5,4 +5,5 @@ phonopy
 jupyter-book
 atomate2
 chgnet
+seekpath
 
