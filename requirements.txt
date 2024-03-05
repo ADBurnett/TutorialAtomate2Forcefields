@@ -6,4 +6,6 @@ jupyter-book
 atomate2
 chgnet
 seekpath
+m3gnet
+mace
 
